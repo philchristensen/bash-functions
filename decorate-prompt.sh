@@ -44,5 +44,3 @@ function decorate_prompt {
     export PS1="${clock} ${user}\w${virtual}${svn}${git} \$ "
   fi
 }
-
-
